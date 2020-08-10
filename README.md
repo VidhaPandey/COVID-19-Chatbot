@@ -14,6 +14,8 @@ In this project,we created a chatbot for the purpose of providing information re
 
 ## Code and Resources Used
 Python Version: 3.7
+
+
 Packages:numpy tensorflow random json 
 
 ## Dataset:
